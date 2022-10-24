@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohitvermaaa
+- 👋 Hi, I’m Mohit Verma
 - 👀 I’m interested in Trekking.
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me mail on mohitvvermaa@outlook.com
